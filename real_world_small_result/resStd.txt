@@ -1,0 +1,17 @@
+Algorithm hi-tech physicians gent113 lp_blend
+RegularizedGreedy 0.067 0.023 0.036 0.063
+StochasticSWOR 0.069 0.024 0.037 0.062
+PoissonOCS 0.069 0.024 0.036 0.062
+MinDegree 0.072 0.025 0.038 0.065
+Balance-SWOR 0.069 0.024 0.037 0.062
+Balance-OCS 0.069 0.024 0.037 0.061
+Ranking 0.069 0.024 0.037 0.061
+HeauplerEtAl 0.069 0.025 0.034 0.058
+TopHalfSampling 0.069 0.025 0.033 0.055
+CorrelatedSampling 0.069 0.025 0.034 0.055
+ManshadiEtAl 0.069 0.025 0.035 0.055
+BrubachEtAl 0.072 0.026 0.034 0.053
+JailletLu 0.071 0.025 0.035 0.052
+JailletLuNonInt 0.070 0.026 0.034 0.053
+BahmaniKapralov 0.071 0.025 0.034 0.052
+FeldManEtAl 0.071 0.026 0.034 0.052

@@ -1,0 +1,5 @@
+Algorithm Caltech36 Reed98 CE-GN CE-PG beause mbeaflw
+Balance-SWOR 0.000 0.000 0.000 0.000 0.000 0.000
+Balance-OCS 0.000 0.000 0.000 0.000 0.000 0.000
+MinDegree 0.000 0.000 0.000 0.000 0.000 0.000
+Ranking 0.000 0.000 0.000 0.000 0.000 0.000

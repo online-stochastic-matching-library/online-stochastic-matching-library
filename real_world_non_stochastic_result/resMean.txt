@@ -1,0 +1,5 @@
+Algorithm Caltech36 Reed98 CE-GN CE-PG beause mbeaflw
+Balance-SWOR 0.840 0.830 0.924 0.924 0.919 0.956
+Balance-OCS 0.835 0.828 0.922 0.923 0.918 0.956
+MinDegree 0.835 0.831 0.921 0.923 0.915 0.951
+Ranking 0.824 0.818 0.916 0.920 0.914 0.953
